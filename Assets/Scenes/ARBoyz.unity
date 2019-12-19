@@ -248,8 +248,7 @@ MeshRenderer:
   m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 056d7b83450b34a6f9a3ce9cbb8312ae, type: 2}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -402,6 +401,7 @@ MonoBehaviour:
   shiftMultiplier: 2
   ctrlMultiplier: 0.5
   camSens: 0.35
+  lastMouse: {x: 968, y: 351, z: 0}
   clickToMove: 1
 --- !u!1 &832713707
 GameObject:
